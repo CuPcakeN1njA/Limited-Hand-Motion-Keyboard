@@ -10,7 +10,7 @@ int bit5 = 0;
 int __bin = 0;
 int led = 17;
 int _bit = 0;
-String alph = "abcdefghijklmnopqrstuvwxyz";
+String alph = "abcdefghijklmnopqrstuvwxyz ";
 
 void setup() {
   // put your setup code here, to run once:
